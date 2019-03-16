@@ -1,0 +1,12 @@
+# Site settings
+title: Carrot's secret garden
+email: caiborong@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to Carrot's secret garden.
+baseurl: "/clean" # the subpath of your site, e.g. /blog/
+url: "https://carrot.dev" # the base hostname & protocol for your site
+twitter_username: caiborong
+github_username:  carroTsai
+
+# Build settings
+markdown: kramdown
