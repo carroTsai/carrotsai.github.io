@@ -27,4 +27,4 @@ _site/
 # Ruby
 Gemfile.lock
 
-/bak
+bak/
