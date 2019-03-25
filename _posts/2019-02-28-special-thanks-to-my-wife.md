@@ -14,7 +14,9 @@ tags:
  - wife
 ---
 
-Thanks my darling for your continued support.
+Dear Ladybird,
+
+Thanks for your continued support.
 
 I will keep making our lives better.
 
